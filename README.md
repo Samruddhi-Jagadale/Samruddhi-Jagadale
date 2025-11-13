@@ -3,7 +3,7 @@
 
 
 
-# 👋 Hi, I'm Akumbhar!
+# 👋 Hi, I'm Samruddhi Jagadale!
 
 🎯 **Aspiring Data & Software Engineer**  
 💻 Skilled in **Java, Python, SQL, PostgreSQL, Flask, React**  
