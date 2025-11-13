@@ -28,5 +28,5 @@
 
 ### 📫 Connect with Me
 🌐 [LinkedIn] https://www.linkedin.com/in/samruddhi-jagadale-20641a280/
-📧 your-email@example.com
+📧 samruddhijagadale16@gmail.com
 
