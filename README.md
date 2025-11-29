@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Samruddhi Jagadale!
 
-🎯 **Aspiring Data & Software Engineer**  
+🎯 **Aspiring AIML & Software Engineer**  
 💻 Skilled in **Java, Python, SQL, PostgreSQL, Flask, React**  
 ☁️ **AWS & GCP Certified** | 🥈 **NPTEL Silver Medalist**  
 🎨 **Design Head @ Acads, KITCoEK** | 💡 **SheFi Scholar**
